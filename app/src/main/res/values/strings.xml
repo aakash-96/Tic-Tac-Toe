@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="normal_activity_label">Tic Tac Toe - Normal Mode</string>
+    <string name="x_move">X Move</string>
+    <string name="empty"/>
+    <string name="makeMove">makeMove</string>
+</resources>
